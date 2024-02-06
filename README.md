@@ -14,7 +14,7 @@ Foram utilizadas as 4 imagens da pasta **inputs**. A seguir estão prints de dua
 - ![letter](inputs/letter.jpg)
 3. **Resultados**: Avaliação da precisão do texto extraído.
 
-O resultados estão da pasta **outputs**. A seguir estão prints de duas imagens: advert.jpg e letter.jpg
+O resultados estão na pasta **outputs**. A seguir estão prints de duas imagens: advert.jpg e letter.jpg
   
 - ![advert](outputs/advert.jpg)
 - ![letter](outputs/letter.jpg)
