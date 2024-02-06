@@ -7,12 +7,17 @@ Documento destaca os aprendizados e experiências do laboratório de Reconhecime
 ## Processo
 
 1. **Configuração**: Criação de um recurso Azure Cognitive Services no portal Azure.
-2. **Implementação do OCR**: Uso da SDK do Azure para enviar imagens ao serviço de OCR e análise das respostas. As imagens utilizadas nessa etapa foram fornecidas no laboratório [ ocr-images.zip](https://aka.ms/mslearn-ocr-images)
-- ![Imagem 01](inputs/advert.jpg)
-- ![Imagem 02](inputs/letter.jpg)
+2. **Implementação do OCR**: Uso da SDK do Azure para enviar imagens ao serviço de OCR e análise das respostas. As imagens utilizadas nessa etapa foram fornecidas no laboratório [ ocr-images.zip](https://aka.ms/mslearn-ocr-images).
+
+Foram utilizadas as 4 imagens da pasta **inputs**. A seguir estão prints de duas imagens: advert.jpg e letter.jpg
+- ![advert](inputs/advert.jpg)
+- ![letter](inputs/letter.jpg)
 3. **Resultados**: Avaliação da precisão do texto extraído.
-- ![Imagem 01](outputs/advert.jpg)
-- ![Imagem 02](outputs/letter.jpg)
+
+O resultados estão da pasta **outputs**. A seguir estão prints de duas imagens: advert.jpg e letter.jpg
+  
+- ![advert](outputs/advert.jpg)
+- ![letter](outputs/letter.jpg)
 
 ## Insights Principais
 
